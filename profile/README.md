@@ -33,14 +33,6 @@ To get started with EVO-OS, follow these instructions:
 
 We welcome contributions to EVO-OS! If you’re interested in helping with the development of the Evaluation Mode or other features, please review the `CONTRIBUTING.md` file for guidelines.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
-## Contact
-
-For any questions or feedback, please reach out to us at [support@evo-os.com](mailto:support@evo-os.com).
-
 ## Acknowledgements
 
 - Special thanks to the open-source community and contributors for their support.
